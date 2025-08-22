@@ -1,0 +1,12 @@
+# Blender 4.5.1 LTS MTL File: 'RealBarrelCup.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 243.119629
+Ka 0.418014 0.418014 0.418014
+Kd 0.615528 0.094893 0.094893
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.900000
+d 1.000000
+illum 3

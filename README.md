@@ -4,6 +4,9 @@ This repository has 3d models made by me. You may use these for whatever you wan
 
 
 ## Usage
+
+If you like this repository, please star it. 
+
 You may use this for whatever the fuck you want, as it follows the `WTFPL` licence. Below is the licence terms:
 
 ```            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE

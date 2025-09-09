@@ -1,13 +1,13 @@
 # 3d models by me
 
-This repository has 3d models made by me. You may use these for whatever you want. If you want me to make something, either dm me on discord, or open an issue,
+This repository has 3d models made by me. You may use these for whatever you want. If you want me to make something, either DM me on Discord, or open an issue, stating clearly what you think should be added.
 
 
 ## Usage
 
 If you like this repository, please star it. 
 
-You may use this for whatever the fuck you want, as it follows the `WTFPL` licence. Below is the licence terms:
+You may use this for whatever the fuck you want, as it follows the `WTFPL` licence. Below are the licence terms:
 
 ```            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004

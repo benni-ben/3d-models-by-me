@@ -1,6 +1,8 @@
 # 3d models by me
 
-This repository has 3d models made by me. You may use these for whatever you want. If you want me to make something, either DM me on Discord or open an issue, stating clearly what you think should be added.
+## Repository has been archived and moved to different repositories. Check for them at https://github.com/benni-ben?tab=repositories.
+
+This repository has 3d models made by me. You may use these for whatever you want. If you want me to make something, DM me on Discord or open an issue.
 
 
 ## Prerequisites
